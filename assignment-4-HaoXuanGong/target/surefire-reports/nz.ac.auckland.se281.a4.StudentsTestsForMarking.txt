@@ -1,0 +1,148 @@
+-------------------------------------------------------------------------------
+Test set: nz.ac.auckland.se281.a4.StudentsTestsForMarking
+-------------------------------------------------------------------------------
+Tests run: 54, Failures: 0, Errors: 18, Skipped: 0, Time elapsed: 3.273 s <<< FAILURE! - in nz.ac.auckland.se281.a4.StudentsTestsForMarking
+T3_01_Reflexive_A(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3ReflexiveTest)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3ReflexiveTest.runTest(StudentsTestsForMarking.java:445)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3ReflexiveTest.T3_01_Reflexive_A(StudentsTestsForMarking.java:454)
+
+T3_03_Reflexive_C(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3ReflexiveTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3ReflexiveTest.runTest(StudentsTestsForMarking.java:445)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3ReflexiveTest.T3_03_Reflexive_C(StudentsTestsForMarking.java:460)
+
+T3_06_Reflexive_F(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3ReflexiveTest)  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3ReflexiveTest.runTest(StudentsTestsForMarking.java:445)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3ReflexiveTest.T3_06_Reflexive_F(StudentsTestsForMarking.java:465)
+
+T3_09_Symmetric_A(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3SymmetricTest)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3SymmetricTest.runTest(StudentsTestsForMarking.java:508)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3SymmetricTest.T3_09_Symmetric_A(StudentsTestsForMarking.java:517)
+
+T3_11_Symmetric_C(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3SymmetricTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3SymmetricTest.runTest(StudentsTestsForMarking.java:508)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3SymmetricTest.T3_11_Symmetric_C(StudentsTestsForMarking.java:522)
+
+T3_14_Symmetric_F(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3SymmetricTest)  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3SymmetricTest.runTest(StudentsTestsForMarking.java:508)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3SymmetricTest.T3_14_Symmetric_F(StudentsTestsForMarking.java:527)
+
+T3_16_Transitive_A(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3TransitiveTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3TransitiveTest.runTest(StudentsTestsForMarking.java:568)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3TransitiveTest.T3_16_Transitive_A(StudentsTestsForMarking.java:577)
+
+T3_17_Transitive_C(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3TransitiveTest)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3TransitiveTest.runTest(StudentsTestsForMarking.java:568)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3TransitiveTest.T3_17_Transitive_C(StudentsTestsForMarking.java:582)
+
+T3_20_Transitive_F(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3TransitiveTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3TransitiveTest.runTest(StudentsTestsForMarking.java:568)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3TransitiveTest.T3_20_Transitive_F(StudentsTestsForMarking.java:587)
+
+T3_22_A(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Tast3EquivalenceTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Tast3EquivalenceTest.runTest(StudentsTestsForMarking.java:627)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Tast3EquivalenceTest.T3_22_A(StudentsTestsForMarking.java:636)
+
+T3_24_C(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Tast3EquivalenceTest)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Tast3EquivalenceTest.runTest(StudentsTestsForMarking.java:627)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Tast3EquivalenceTest.T3_24_C(StudentsTestsForMarking.java:641)
+
+T3_27_F(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Tast3EquivalenceTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Tast3EquivalenceTest.runTest(StudentsTestsForMarking.java:627)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Tast3EquivalenceTest.T3_27_F(StudentsTestsForMarking.java:646)
+
+T3_30_A(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3EquivalenceClassTest)  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3EquivalenceClassTest.runTest(StudentsTestsForMarking.java:687)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3EquivalenceClassTest.T3_30_A(StudentsTestsForMarking.java:713)
+
+T3_32_C(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3EquivalenceClassTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3EquivalenceClassTest.runTest(StudentsTestsForMarking.java:687)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3EquivalenceClassTest.T3_32_C(StudentsTestsForMarking.java:718)
+
+T3_35_F(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3EquivalenceClassTest)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3EquivalenceClassTest.runTest(StudentsTestsForMarking.java:687)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task3EquivalenceClassTest.T3_35_F(StudentsTestsForMarking.java:728)
+
+T3_01_A(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task4SearchTweetTest)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task4SearchTweetTest.runTest(StudentsTestsForMarking.java:905)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task4SearchTweetTest.T3_01_A(StudentsTestsForMarking.java:919)
+
+T3_03_C(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task4SearchTweetTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task4SearchTweetTest.runTest(StudentsTestsForMarking.java:905)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task4SearchTweetTest.T3_03_C(StudentsTestsForMarking.java:924)
+
+T3_06_F(nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task4SearchTweetTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task4SearchTweetTest.runTest(StudentsTestsForMarking.java:905)
+	at nz.ac.auckland.se281.a4.StudentsTestsForMarking$Task4SearchTweetTest.T3_06_F(StudentsTestsForMarking.java:929)
+
